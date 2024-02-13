@@ -1,6 +1,6 @@
 - 👋 Hi, I am Sadiq Aliyu.
 - 👀 I’m interested in anything software.
-- 🌱 I’m currently mastering react.
+- 🌱 I am currently working as a freelancer.
 - 💞️ I’m looking to collaborate on projects on react.js
 - 📫 you can reach me via sadiqaliyu89@gmail.com or +2347030384132
 - https://sadiqaliyu.com.ng
